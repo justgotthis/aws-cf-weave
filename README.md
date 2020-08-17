@@ -1,6 +1,4 @@
-# cloudformation
-
-AWS Kubernetes Cluster Create
+# LinuxAcademy AWS Cloudformation Weave Cluster Create
 
 - Through LinuxAcademy, create a new AWS playground which will provide Access credentials
 - Log into LinuxAcademy jump server and run "ssh-key.bash" script to enter the newly created AWS Access credentials
